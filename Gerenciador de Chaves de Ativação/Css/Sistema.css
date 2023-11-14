@@ -1,0 +1,56 @@
+﻿html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ccc
+}
+
+#PnlSoftware {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.legend{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+fieldset{
+    display:flex;
+    flex-direction: column;
+    width:60%;
+}
+
+/*.divBlock {
+    display: flex;
+}
+
+
+.fieldset .label-left{
+    width:50%;
+    text-align:center;
+    margin-right: auto;
+}
+
+.fieldset .label-right {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+}
+
+.txt-left {
+    width: 30%;
+    margin-left:10%;
+    margin-right: auto;
+}
+
+.txt-right {
+    width: 30%;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: auto;
+}*/
+
+
